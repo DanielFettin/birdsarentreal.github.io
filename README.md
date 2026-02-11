@@ -1,5 +1,3 @@
-# birdsarentreal.github.io
-Birds Aren't Real
 <!DOCTYPE html>
 <html lang="en">
 <head>
